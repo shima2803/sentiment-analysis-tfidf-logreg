@@ -61,7 +61,3 @@ O modelo gera ao final do treinamento:
 - Acurácia no conjunto de teste
 - Relatório de precisão / recall / f1-score por classe
 - Matriz de confusão visualizada com seaborn
-
----
-
-Projeto desenvolvido como prática do curso **Python - Do Básico à Aplicação de IA**.
